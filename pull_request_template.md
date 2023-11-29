@@ -1,8 +1,11 @@
 ## Description
 - What do this PR fix/create/update?
 
-## Other resource
-- Is there other necessary information?
+## Impact range:
+- List impact range
+
+## Logic
+- How your's code work
 
 ## Picture
 - Take a picture of your update and paste here
