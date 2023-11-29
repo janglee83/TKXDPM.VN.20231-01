@@ -10,41 +10,123 @@ This is a Capstone's source code for Software Design and Construction project
 | Nguyễn Văn A   | Member      |
 | Nguyễn Văn B   | Member      |
 
-## Nội dung báo cáo
+## Report Content
 
 <details>
-<summary>W2: 01/10/2023~08/10/2023 </summary>
+  <summary>W3: 01/10/2023~08/10/2023 </summary>
 <br>
-
 <details>
-<summary>Lê Thanh Giang</summary>
+<summary>Team Member 1</summary>
 <br>
 
-- Nội dung công việc được giao:
-  - Nội dung công việc 1
-  - Nội dung công việc 2
+- Assigned tasks:
+  - Task 1
+  - Task 2
   - ...
-- Nội dung triển khai:
-  - Pull Request(s): [Các bạn đính kèm link pull request của mình vào đây. Mọi người có thể đính kèm nhiều pull requets]()
-  - Nội dung triển khai cụ thể:
-    - Bạn đã làm gì trong tuần vừa rồi, bạn mô tả chi tiết dưới đây theo các ý
-    - Bạn có thể đính kèm ảnh nếu muốn
+
+- Implementation details:
+  - Pull Request(s): [Attach links to your pull requests here. You can attach multiple pull requests]()
+  - Specific implementation details:
+    - Describe specific in detail what you did last week
+    - You can attach images if you want
 
 </details>
 
 <details>
-<summary>Nguyễn văn A</summary>
+<summary>Team Member 2</summary>
 <br>
 
-- Nội dung công việc được giao:
-  - Nội dung công việc 1
-  - Nội dung công việc 2
+- Assigned tasks:
+  - Task 1
+  - Task 2
   - ...
-- Nội dung triển khai:
-  - Pull Request(s): [ádasd]()
-  - Nội dung triển khai cụ thể:
-    - Bạn đã làm gì trong tuần vừa rồi, bạn mô tả chi tiết dưới đây theo các ý
-    - Bạn có thể đính kèm ảnh nếu muốn
+
+- Implementation details:
+  - Pull Request(s): [Attach links to your pull requests here. You can attach multiple pull requests]()
+  - Specific implementation details:
+    - Describe specific in detail what you did last week
+    - You can attach images if you want
+
+</details>
+
+</details>
+
+---
+<details>
+  <summary>W4: 01/10/2023~08/10/2023 </summary>
+<br>
+<details>
+<summary>Team Member 1</summary>
+<br>
+
+- Assigned tasks:
+  - Task 1
+  - Task 2
+  - ...
+
+- Implementation details:
+  - Pull Request(s): [Attach links to your pull requests here. You can attach multiple pull requests]()
+  - Specific implementation details:
+    - Describe specific in detail what you did last week
+    - You can attach images if you want
+
+</details>
+
+<details>
+<summary>Team Member 2</summary>
+<br>
+
+- Assigned tasks:
+  - Task 1
+  - Task 2
+  - ...
+
+- Implementation details:
+  - Pull Request(s): [Attach links to your pull requests here. You can attach multiple pull requests]()
+  - Specific implementation details:
+    - Describe specific in detail what you did last week
+    - You can attach images if you want
+
+</details>
+
+</details>
+
+---
+
+<details>
+  <summary>W5: 01/10/2023~08/10/2023 </summary>
+<br>
+<details>
+<summary>Team Member 1</summary>
+<br>
+
+- Assigned tasks:
+  - Task 1
+  - Task 2
+  - ...
+
+- Implementation details:
+  - Pull Request(s): [Attach links to your pull requests here. You can attach multiple pull requests]()
+  - Specific implementation details:
+    - Describe specific in detail what you did last week
+    - You can attach images if you want
+
+</details>
+
+<details>
+<summary>Team Member 2</summary>
+<br>
+
+- Assigned tasks:
+  - Task 1
+  - Task 2
+  - ...
+
+- Implementation details:
+  - Pull Request(s): [Attach links to your pull requests here. You can attach multiple pull requests]()
+  - Specific implementation details:
+    - Describe specific in detail what you did last week
+    - You can attach images if you want
 
 </details>
 
